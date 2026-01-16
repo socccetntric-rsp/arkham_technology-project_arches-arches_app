@@ -1,16 +1,15 @@
 # project_arches
 
-Zion_Fpga project: project_arches
+Arches_Linux project: project_arches
 
 ## Setup
 
-1. Install FPGA tools
-2. Run simulations
-3. Synthesize design
+1. Install Yocto dependencies
+2. Configure build
+3. Build the image
 
 ## Building
 
 ```bash
-make sim
-make synth
+bitbake arches-image
 ```
