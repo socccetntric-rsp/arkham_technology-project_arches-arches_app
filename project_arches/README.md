@@ -1,11 +1,16 @@
 # project_arches
 
-Mechanical project: project_arches
+Zion_Fpga project: project_arches
 
-## Project Structure
+## Setup
 
-- `cad/` - CAD models and assemblies
-- `drawings/` - 2D drawings for manufacturing
-- `bom/` - Bill of Materials
-- `analysis/` - FEA and simulation results
-- `manufacturing/` - Manufacturing files (G-code, etc.)
+1. Install FPGA tools
+2. Run simulations
+3. Synthesize design
+
+## Building
+
+```bash
+make sim
+make synth
+```

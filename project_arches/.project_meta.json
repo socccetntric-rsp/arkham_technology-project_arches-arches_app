@@ -1,8 +1,8 @@
 {
   "name": "project_arches",
   "clean_name": "project_arches",
-  "type": "mechanical",
-  "description": "Mechanical project: project_arches",
-  "created_at": "2026-01-19T08:50:19.276622",
+  "type": "zion_fpga",
+  "description": "Zion_Fpga project: project_arches",
+  "created_at": "2026-01-19T08:51:10.040515",
   "workspace": "/home/sandesh/agent_workspaces/workspace/arkham_technology/project_arches"
 }
