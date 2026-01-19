@@ -1,15 +1,19 @@
 # project_arches
 
-Arches_App project: project_arches
+Mobile project: project_arches
 
 ## Setup
 
-1. Build the application
-2. Run tests
-3. Deploy
+```bash
+npm install
+# or
+flutter pub get
+```
 
-## Building
+## Running
 
 ```bash
-make all
+npm start
+# or
+flutter run
 ```
