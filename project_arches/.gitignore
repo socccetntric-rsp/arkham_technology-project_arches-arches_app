@@ -1,8 +1,7 @@
-# KiCad
+# CAD
 *.bak
-*-backups/
-fp-info-cache
-*.kicad_prl
+*.tmp
+*.log
 
 # IDE
 .idea/
