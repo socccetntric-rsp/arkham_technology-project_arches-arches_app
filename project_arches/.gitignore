@@ -1,6 +1,12 @@
-# CAD
-*.bak
-*.tmp
+# Build artifacts
+build/
+*.bit
+*.mcs
+*.bin
+
+# Simulation
+*.vcd
+*.wlf
 *.log
 
 # IDE
